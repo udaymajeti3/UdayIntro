@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Science with AI from India</h3>
 <img align="right" alt="DSAI" width="400" src="https://www.dexlabanalytics.com/wp-content/uploads/2020/03/The-link-between-AI-ML-and-Data-Science_Banner.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vicky-black-tiger&label=Profile%20views&color=0e75b6&style=flat" alt="uday143devil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uday143devil&label=Profile%20views&color=0e75b6&style=flat" alt="uday143devil" /> </p>
 
 <p align="left"> <a href="https://twitter.com/uday143devil" target="blank"><img src="https://img.shields.io/twitter/follow/uday143devil?logo=twitter&style=for-the-badge" alt="uday143devil" /></a> </p>
 
