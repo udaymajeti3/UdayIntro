@@ -1,7 +1,7 @@
-[![MasterHead](https://www.cmrit.ac.in/wp-content/uploads/2021/06/artificail.jpg)](uday.io)
+[![MasterHead](https://aitsrajampet.ac.in/images/pdf/ai/ai-banner.png)](uday.io)
 <h1 align="center">Hi 👋, I'm MAJETI UDAYA VENKATA KUMAR</h1>
 <h3 align="center">A passionate Data Science with AI from India</h3>
-<img align="right" alt="DSAI" width="400" src="https://www.cmrit.ac.in/wp-content/uploads/2021/06/artificail.jpg">
+<img align="right" alt="DSAI" width="400" src="https://www.dexlabanalytics.com/wp-content/uploads/2020/03/The-link-between-AI-ML-and-Data-Science_Banner.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicky-black-tiger&label=Profile%20views&color=0e75b6&style=flat" alt="uday143devil" /> </p>
 
